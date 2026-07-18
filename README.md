@@ -60,6 +60,16 @@ No public APK is available yet. Built development versions may be provided on re
 - **Vehicles and aircraft:** Several vehicle types can be acquired, stored, and driven.
 - **Persistent world:** The app saves player progress, inventory, vehicles, NPCs, and looted buildings.
 
+## Development simulators
+
+The private development project includes standalone Python simulators for testing and tuning important game systems without running the Android app:
+
+- **Pathfinding simulator:** Visualizes NPC movement and obstacle avoidance, collects analytics, and helps tune movement parameters.
+- **NPC behaviour simulator:** Tests goal selection, survival priorities, and autonomous trading scenarios against the Kotlin implementation.
+- **Loot simulator:** Reads the current item catalog and loot configuration, then reports spawn statistics for each building type.
+
+These development tools are part of the private source repository and are not included in this public preview.
+
 ## APK releases
 
 Future APK builds will be attached to entries on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases). Only install files published directly by this repository. Release notes will identify the Android requirements, known issues, and build type.
