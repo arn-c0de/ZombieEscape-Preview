@@ -54,7 +54,7 @@ Future APK builds will be attached to entries on the [Releases page](https://git
 
 The main repository is not publicly accessible, but collaboration requests are welcome.
 
-To express interest, [open an issue](https://github.com/arn-c0de/ZombieEscape-Preview/issues/new) in this preview repository and include:
+To express interest, either [open an issue](https://github.com/arn-c0de/ZombieEscape-Preview/issues/new) in this preview repository or email `arn-c0de@protonmail.com`. Please include:
 
 - A short introduction
 - The area you would like to contribute to
@@ -62,8 +62,6 @@ To express interest, [open an issue](https://github.com/arn-c0de/ZombieEscape-Pr
 - Links to previous work, if available
 
 Do not include passwords, access tokens, private keys, or other sensitive information in an issue. Repository access is considered individually and is not guaranteed.
-
-For private inquiries, contact `arn-c0de@protonmail.com`.
 
 ## License and usage
 
