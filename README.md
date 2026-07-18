@@ -23,17 +23,28 @@ Current game version: **1.1.8** (version code 10108)
 
 No public APK is available yet. Built development versions may be provided on request for testing. Public test builds will be published on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases) when they are ready.
 
-## Screenshots
+## Current app pages
 
 <div align="center">
   <img alt="Main map" src="images/main.png" width="200" />
-  <img alt="Zombies" src="images/zombies.png" width="200" />
-  <img alt="Inventory" src="images/inventory.png" width="200" />
-  <img alt="Building loot" src="images/building-loot.png" width="200" />
-  <img alt="Settings" src="images/settings.png" width="200" />
   <img alt="Skills" src="images/skills.png" width="200" />
-  <img alt="Health system" src="images/health.png" width="200" />
+  <img alt="Player statistics" src="images/stats.png" width="200" />
+  <img alt="Equipment and health" src="images/equipment.png" width="200" />
+  <img alt="Inventory" src="images/inventory.png" width="200" />
+  <img alt="Crafting" src="images/crafting.png" width="200" />
   <img alt="Trader" src="images/trader.png" width="200" />
+  <img alt="Vehicles" src="images/vehicles.png" width="200" />
+  <img alt="Combat" src="images/combat.png" width="200" />
+  <img alt="Actions" src="images/actions.png" width="200" />
+  <img alt="Settings" src="images/settings.png" width="200" />
+  <img alt="Information" src="images/info.png" width="200" />
+</div>
+
+## Gameplay screenshots
+
+<div align="center">
+  <img alt="Zombies" src="images/zombies.png" width="200" />
+  <img alt="Building loot" src="images/building-loot.png" width="200" />
 </div>
 
 ## Features
