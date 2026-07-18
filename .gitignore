@@ -1,0 +1,10 @@
+# Android release files are published through repository releases.
+*.apk
+*.aab
+
+# Local system and editor files.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
