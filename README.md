@@ -21,7 +21,7 @@ ZombieEscape is playable and under active development. Features, visuals, and ba
 
 Current game version: **1.1.8** (version code 10108)
 
-No public APK is available yet. Test builds will be published on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases) when they are ready.
+No public APK is available yet. Built development versions may be provided on request for testing. Public test builds will be published on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases) when they are ready.
 
 ## Screenshots
 
@@ -52,6 +52,8 @@ No public APK is available yet. Test builds will be published on the [Releases p
 ## APK releases
 
 Future APK builds will be attached to entries on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases). Only install files published directly by this repository. Release notes will identify the Android requirements, known issues, and build type.
+
+Development builds may also be available to testers on request. To request a build, [open an issue](https://github.com/arn-c0de/ZombieEscape-Preview/issues/new) or email `arn-c0de@protonmail.com` and include your Android device model and Android version. Access to development builds is considered individually and is not guaranteed.
 
 ## Contributing to the private project
 
