@@ -2,6 +2,7 @@
   <p>
     <img alt="Platform" src="https://img.shields.io/badge/platform-Android-green?logo=android" />
     <img alt="Language" src="https://img.shields.io/badge/language-Kotlin-blue?logo=kotlin" />
+    <img alt="Game version" src="https://img.shields.io/badge/version-1.1.8-blue" />
     <img alt="Source" src="https://img.shields.io/badge/source-private-red" />
     <img alt="Status" src="https://img.shields.io/badge/status-active_development-orange" />
   </p>
@@ -17,6 +18,8 @@ The main development repository is private. This public preview repository provi
 ## Development status
 
 ZombieEscape is playable and under active development. Features, visuals, and balancing may change. Combat and NPC collision avoidance are still being improved.
+
+Current game version: **1.1.8** (version code 10108)
 
 No public APK is available yet. Test builds will be published on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases) when they are ready.
 
