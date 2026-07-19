@@ -2,7 +2,7 @@
   <p>
     <img alt="Platform" src="https://img.shields.io/badge/platform-Android-green?logo=android" />
     <img alt="Language" src="https://img.shields.io/badge/language-Kotlin-blue?logo=kotlin" />
-    <img alt="Game version" src="https://img.shields.io/badge/version-1.1.8-blue" />
+    <img alt="Game version" src="https://img.shields.io/badge/version-1.1.9-blue" />
     <img alt="Source" src="https://img.shields.io/badge/source-private-red" />
     <img alt="Status" src="https://img.shields.io/badge/status-active_development-orange" />
   </p>
@@ -19,7 +19,9 @@ The main development repository is private. This public preview repository provi
 
 ZombieEscape is playable and under active development. Features, visuals, and balancing may change. Combat and NPC collision avoidance are still being improved.
 
-Current game version: **1.1.8** (version code 10108)
+Current game version: **1.1.9** (version code 10109)
+
+A full version-by-version history is available in the [Changelog](CHANGELOG.md).
 
 No public APK is available yet. Built development versions may be provided on request for testing. Public test builds will be published on the [Releases page](https://github.com/arn-c0de/ZombieEscape-Preview/releases) when they are ready.
 
@@ -53,12 +55,18 @@ No public APK is available yet. Built development versions may be provided on re
 - **GPS and joystick movement:** Explore using device location or on-screen controls.
 - **Dynamic zombies:** Spawn rates and zombie types depend on the surrounding area.
 - **NPC factions:** Hostile, neutral, friendly, and trader NPCs find shelter, collect loot, store items, and defend themselves.
-- **Combat:** Supports player-versus-AI and AI-versus-AI encounters.
-- **Injuries and treatment:** Tracks injuries by body part, including bleeding, fractures, and infection.
+- **NPC daily life:** NPCs follow a day/night routine with sleep, survival priorities, and individual personality traits.
+- **Combat:** Supports player-versus-AI and AI-versus-AI encounters, with retaliation AI and on-map combat effects (floating damage numbers and health bars).
+- **Smarter navigation:** Plan-then-steer A\* pathfinding routes NPCs around dense, adjacent buildings instead of getting stuck in corners.
+- **Injuries and treatment:** Tracks injuries by body part, including bleeding, fractures, and infection; treatments consume medical supplies.
 - **Loot and inventory:** Buildings have loot tables and cooldowns, while inventory uses weight limits and item stacks.
-- **Crafting and equipment:** Players can craft items and equip weapons, armor, and attachments.
-- **Vehicles and aircraft:** Several vehicle types can be acquired, stored, and driven.
-- **Persistent world:** The app saves player progress, inventory, vehicles, NPCs, and looted buildings.
+- **Crafting, cooking, and equipment:** Players can craft items, cook food at persistent campfires and stoves, and equip weapons, armor, and attachments.
+- **Weapon modding:** A modular attachment workbench with a live pixel-art view lets you fit stocks, optics, magazines, and muzzle devices; mods are reflected on the weapon sprite and paperdoll.
+- **Housing and raids:** Claim player houses, defend against NPC house raids, and trigger survivor-rescue events.
+- **Building interiors:** Enter shops and buildings with their own interior layouts, power, and lighting.
+- **Vehicles and aircraft:** Several vehicle types can be acquired, stored, and driven, with animated vehicle sprites on the map.
+- **Living environment:** Real-time day/night lighting with a clock HUD, an app-wide day/night theme, and animated map assets such as forest vegetation.
+- **Persistent world:** The app saves player progress, inventory, vehicles, NPCs, houses, interiors, and looted buildings.
 
 ## Development simulators
 
