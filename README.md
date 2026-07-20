@@ -72,6 +72,12 @@ No public APK is available yet. Built development versions may be provided on re
 - **Living environment:** Real-time day/night lighting with a clock HUD, an app-wide day/night theme, and animated map assets such as forest vegetation.
 - **Persistent world:** The app saves player progress, inventory, vehicles, NPCs, houses, interiors, and looted buildings.
 
+## Player wiki
+
+The complete player guide is versioned in this repository under [`wiki/`](wiki/Home.md). It covers getting started, controls, survival, buildings and loot, combat, medical care, inventory and equipment, crafting, skills, NPCs and traders, houses and interiors, vehicles, events, settings, and troubleshooting.
+
+The same content is intended for the repository's [GitHub Wiki](https://github.com/arn-c0de/ZombieEscape-Preview/wiki), while the in-repository copy remains the canonical source and can be reviewed with normal commits.
+
 ## Development simulators
 
 The private development project includes standalone Python simulators for testing and tuning important game systems without running the Android app:
@@ -109,4 +115,4 @@ The ZombieEscape source code remains private and is not licensed through this pr
 
 Repository: <https://github.com/arn-c0de/ZombieEscape-Preview>
 
-**Navigation:** [README](README.md) | [Project History](HISTORY.md) | [Changelog](CHANGELOG.md) | [Player Wiki](https://github.com/arn-c0de/ZombieEscape-Preview/wiki)
+**Navigation:** [README](README.md) | [Player Wiki](wiki/Home.md) | [Future Plans](PLANS.md) | [Project History](HISTORY.md) | [Changelog](CHANGELOG.md)

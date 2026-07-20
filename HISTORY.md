@@ -72,5 +72,4 @@ When adding a milestone, use a dated heading, a short explanation of why it matt
 
 ---
 
-**Navigation:** [README](README.md) | [History](HISTORY.md) | [Changelog](CHANGELOG.md) | [Player Wiki](https://github.com/arn-c0de/ZombieEscape-Preview/wiki)
-
+**Navigation:** [README](README.md) | [Player Wiki](wiki/Home.md) | [Future Plans](PLANS.md) | [History](HISTORY.md) | [Changelog](CHANGELOG.md)
