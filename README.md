@@ -19,6 +19,10 @@ The main development repository is private. This public preview repository provi
 
 ZombieEscape is playable and under active development. Features, visuals, and balancing may change. Combat and NPC collision avoidance are still being improved.
 
+> **Initial building load:** After setting your spawn point and home base, the first download and processing of nearby building footprints may take some time. This is expected during development and should become faster when the final tile provider is integrated. Once an area has been loaded, its building data is cached locally, so subsequent loads are significantly faster.
+
+> **Satellite view:** The Admin Panel includes an option to switch between the standard map and satellite imagery. Satellite view currently provides a noticeably better-looking and more detailed map presentation.
+
 Current game version: **1.1.9** (version code 10109)
 
 A full version-by-version history is available in the [Changelog](CHANGELOG.md).
