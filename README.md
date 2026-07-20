@@ -108,3 +108,5 @@ All screenshots, game assets, names, and other material in this repository are p
 The ZombieEscape source code remains private and is not licensed through this preview repository.
 
 Repository: <https://github.com/arn-c0de/ZombieEscape-Preview>
+
+**Navigation:** [README](README.md) | [Project History](HISTORY.md) | [Changelog](CHANGELOG.md) | [Player Wiki](https://github.com/arn-c0de/ZombieEscape-Preview/wiki)
