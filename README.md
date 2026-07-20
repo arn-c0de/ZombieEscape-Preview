@@ -15,6 +15,10 @@ ZombieEscape turns real streets and buildings into a survival game map. Explore 
 
 The main development repository is private. This public preview repository provides project information, screenshots, development updates, and future Android releases. It does not contain the game's source code.
 
+## Highlights
+
+- **Autonomous vehicles:** A self-driving car with autopilot — pick any destination on the map and it routes over real roads (including long-distance, cross-country trips) and drives there on its own, with gear-controlled speed, a live distance/ETA readout, and a self-trimming route line.
+
 ## Development status
 
 ZombieEscape is playable and under active development. Features, visuals, and balancing may change. Combat and NPC collision avoidance are still being improved.
@@ -68,7 +72,7 @@ No public APK is available yet. Built development versions may be provided on re
 - **Weapon modding:** A modular attachment workbench with a live pixel-art view lets you fit stocks, optics, magazines, and muzzle devices; mods are reflected on the weapon sprite and paperdoll.
 - **Housing and raids:** Claim player houses, defend against NPC house raids, and trigger survivor-rescue events.
 - **Building interiors:** Enter shops and buildings with their own interior layouts, power, and lighting.
-- **Vehicles and aircraft:** Several vehicle types can be acquired, stored, and driven, with animated vehicle sprites on the map.
+- **Vehicles and aircraft:** Several vehicle types can be acquired, stored, and driven, with animated vehicle sprites on the map — including a self-driving autonomous car with map-destination autopilot navigation.
 - **Living environment:** Real-time day/night lighting with a clock HUD, an app-wide day/night theme, and animated map assets such as forest vegetation.
 - **Persistent world:** The app saves player progress, inventory, vehicles, NPCs, houses, interiors, and looted buildings.
 
