@@ -1,6 +1,8 @@
 # World, Buildings and Loot
 
-![Building loot](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/building-loot.png)
+<div align="center">
+  <img alt="Building loot" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/building-loot.png" width="220" />
+</div>
 
 ## The real-world map
 

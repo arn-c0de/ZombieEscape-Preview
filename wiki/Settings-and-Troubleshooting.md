@@ -1,6 +1,8 @@
 # Settings and Troubleshooting
 
-![Settings](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/settings.png)
+<div align="center">
+  <img alt="Settings" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/settings.png" width="220" />
+</div>
 
 ## Player settings
 

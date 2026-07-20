@@ -1,6 +1,8 @@
 # Vehicles and Aircraft
 
-![Vehicles](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/vehicles.png)
+<div align="center">
+  <img alt="Vehicles" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/vehicles.png" width="220" />
+</div>
 
 ## Getting a vehicle
 

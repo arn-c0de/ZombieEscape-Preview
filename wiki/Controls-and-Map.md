@@ -1,6 +1,8 @@
 # Controls and Map
 
-![Main map and HUD](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/main.png)
+<div align="center">
+  <img alt="Main map and HUD" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/main.png" width="220" />
+</div>
 
 ## Movement modes
 
@@ -33,7 +35,9 @@ The large colored buttons provide fast access to common functions. Depending on 
 
 ## Actions page
 
-![Actions page](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/actions.png)
+<div align="center">
+  <img alt="Actions page" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/actions.png" width="220" />
+</div>
 
 The **Actions** page offers:
 

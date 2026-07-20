@@ -1,6 +1,8 @@
 # Skills and Statistics
 
-![Skills](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/skills.png)
+<div align="center">
+  <img alt="Skills" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/skills.png" width="220" />
+</div>
 
 ## Skills
 
@@ -17,7 +19,9 @@ Tap a skill for its details. Skills can be displayed grouped or ungrouped. Perfo
 
 ## Statistics
 
-![Statistics](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/stats.png)
+<div align="center">
+  <img alt="Statistics" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/stats.png" width="220" />
+</div>
 
 The Stats page includes:
 

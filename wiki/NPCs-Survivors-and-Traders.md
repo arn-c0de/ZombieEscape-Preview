@@ -1,6 +1,8 @@
 # NPCs, Survivors and Traders
 
-![Trader](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/trader.png)
+<div align="center">
+  <img alt="Trader" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/trader.png" width="220" />
+</div>
 
 ## NPC factions
 

@@ -1,6 +1,8 @@
 # Crafting and Cooking
 
-![Crafting](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/crafting.png)
+<div align="center">
+  <img alt="Crafting" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/crafting.png" width="220" />
+</div>
 
 ## Opening the workshop
 

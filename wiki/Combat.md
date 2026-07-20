@@ -1,6 +1,8 @@
 # Combat
 
-![Combat page](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/combat.png)
+<div align="center">
+  <img alt="Combat page" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/combat.png" width="220" />
+</div>
 
 ## Starting combat
 

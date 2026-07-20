@@ -1,6 +1,8 @@
 # Health and Medical Care
 
-![Equipment and health](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/health.png)
+<div align="center">
+  <img alt="Equipment and health" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/health.png" width="220" />
+</div>
 
 ## Body-part health
 

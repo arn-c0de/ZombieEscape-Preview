@@ -4,7 +4,9 @@ Welcome to the player guide for **ZombieEscape**, an open-world, location-based 
 
 > ZombieEscape is in active development. Screens, balance, and mechanics may change. This wiki describes game version **1.1.9**.
 
-![ZombieEscape main map](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/main.png)
+<div align="center">
+  <img alt="ZombieEscape main map" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/main.png" width="220" />
+</div>
 
 ## Start here
 

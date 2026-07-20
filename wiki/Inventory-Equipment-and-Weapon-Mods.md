@@ -1,6 +1,8 @@
 # Inventory, Equipment and Weapon Mods
 
-![Inventory](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/inventory.png)
+<div align="center">
+  <img alt="Inventory" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/inventory.png" width="220" />
+</div>
 
 ## Inventory basics
 
@@ -22,7 +24,9 @@ Keep some weight capacity free before looting or crafting. If an action creates 
 
 ## Equipment
 
-![Equipment](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/equipment.png)
+<div align="center">
+  <img alt="Equipment" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/equipment.png" width="220" />
+</div>
 
 The paperdoll includes armor slots for helmet, face mask, chest, gloves, legs, and boots, plus primary and secondary weapon slots. Equipping armor raises total armor; unequipped items return to inventory. Use **Swap Weapons** to exchange primary and secondary slots, or **Clear All** to unequip everything.
 
@@ -30,7 +34,9 @@ The body figure is also the entry point for injury details and treatment.
 
 ## Weapon modifications
 
-![Weapon modification view](https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/equipment.png)
+<div align="center">
+  <img alt="Weapon modification view" src="https://raw.githubusercontent.com/arn-c0de/ZombieEscape-Preview/main/images/equipment.png" width="220" />
+</div>
 
 Open **Weapon Mods** or **Modify Weapons** to enter the Weapon Workbench.
 

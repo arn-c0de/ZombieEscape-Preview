@@ -13,7 +13,7 @@ ZombieEscape began as an Android experiment that placed a player, zombies, build
 The screenshot below comes from the early 1.x period. It shows the original dark map presentation with large colored markers, a dense zombie population, the first safezone/home marker, the early HUD, and the joystick-based manual controls.
 
 <div align="center">
-  <img alt="Historical ZombieEscape screenshot showing the early zombie map and HUD" src="images/zombies.png" width="360" />
+  <img alt="Historical ZombieEscape screenshot showing the early zombie map and HUD" src="images/zombies.png" width="220" />
   <br />
   <em>Early ZombieEscape 1.x: the first zombie-heavy map and safezone gameplay.</em>
 </div>
