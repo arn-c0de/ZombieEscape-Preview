@@ -12,6 +12,21 @@ preview stays traceable version by version.
 ## [1.1.9] - 2026-07-19 (current)
 
 ### Added
+- **Military faction & data-driven faction system:** A new military faction of
+  fully-simulated NPC soldiers — own names, personalities and military loadouts.
+  Armed squads (2–4 soldiers) patrol in military vehicles between discovered areas
+  using real-road routing (online routing with a local A* fallback, like the
+  autopilot). When the player or a rival NPC comes within range they dismount and
+  attack, chase a fleeing target on foot, then remount and hunt by vehicle before
+  breaking off and resuming the patrol. Soldiers also fight zombies once deployed.
+  Squads and their patrols persist across restarts.
+- **Editable faction & loadout data + editor:** Factions (disposition toward the
+  player, directional relationships that decide who fights whom, loadout, spawn and
+  event/quest hooks) and per-faction NPC loadouts now live in editable data files,
+  so new factions can be added without code. A standalone desktop loadout & faction
+  editor edits them, with per-category selectable item variations rolled at spawn.
+- **Admin controls for military patrols:** trigger or stop patrols on demand, toggle
+  automatic spawning, and tune the engage / remount-chase / hunt-give-up distances.
 - Interior systems expansion with improved loot and NPC healing.
 - Power-grid M7 foundation and enterable shops.
 

@@ -17,6 +17,7 @@ The main development repository is private. This public preview repository provi
 
 ## Highlights
 
+- **Military faction:** Armed NPC soldier squads patrol in military vehicles between explored areas, dismount to attack the player or rival NPCs, chase fleeing targets on foot, and hunt by vehicle before resuming their patrol. Factions, their relationships (who fights whom) and NPC loadouts are fully data-driven and editable, so new factions can be added without code.
 - **Autonomous vehicles:** A self-driving car with autopilot — pick any destination on the map and it routes over real roads (including long-distance, cross-country trips) and drives there on its own, with gear-controlled speed, a live distance/ETA readout, and a self-trimming route line.
 
 ## Development status
